@@ -1,6 +1,7 @@
 # Overview
 
-Based on https://github.com/spesmilo/electrumx
+- https://github.com/spesmilo/electrumx
+- Ubuntu 22.04
 
 Successfully running the following blockchains:
 
